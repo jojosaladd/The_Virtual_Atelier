@@ -3,7 +3,7 @@ This is an interactive 3D fashion showroom built with the [Anigraph](https://www
 
 ## Demo
 ![example](recordings/example.gif)
-
+![Live Demo](https://jojosaladd.github.io/The_Virtual_Atelier/)
 
 ## Interactive Controls
 - ex
